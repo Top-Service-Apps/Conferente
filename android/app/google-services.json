@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1034953301330",
+    "firebase_url": "https://appromaneio-default-rtdb.firebaseio.com",
+    "project_id": "appromaneio",
+    "storage_bucket": "appromaneio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034953301330:android:e7ab937e03df143de0ee8b",
+        "android_client_info": {
+          "package_name": "com.example.appromaneio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034953301330-3umm8sr2mgd0hoh9cj3uebks4utrj0h3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCadqsFDFjw-IyXrmZqhK25Big8JOEzb2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034953301330-3umm8sr2mgd0hoh9cj3uebks4utrj0h3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
